@@ -112,7 +112,7 @@ function declareWinner(winningIndices) {
 }
 
 function declareDraw() {
-    titleHeader.textContent = 'Draw'
+    titleHeader.textContent = 'Draw!😪👎'
     isPauseGame = true
     restartBtn.style.visibility = 'visible'
 }
